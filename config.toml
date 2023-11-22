@@ -38,8 +38,8 @@ publishDir            = "public"					# 站点静态文件保存目录
     searchImageD      = "assets/images/bg.webp"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bt8-expand-light.webp"
     logoExpandDark    = "assets/images/bt8-expand-dark.webp"
-    logoCollapseLight = "assets/images/bt.webp"
-    logoCollapseDark  = "assets/images/bt.webp"
+    logoCollapseLight = "assets/images/navi.webp"
+    logoCollapseDark  = "assets/images/navi.webp"
     
 [markup.goldmark.renderer]
     unsafe = true
