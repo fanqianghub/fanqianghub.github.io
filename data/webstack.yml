@@ -94,10 +94,14 @@
       logo: github.webp
       url: https://github.com/hehonghui/awesome-english-ebooks
       description: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载
-    - title: Run
-      logo: github.webp
-      url: https://github.com/The-Run-Philosophy-Organization/run
-      description: 润学指南
+    # - title: Run
+    #   logo: github.webp
+    #   url: https://github.com/The-Run-Philosophy-Organization/run
+    #   description: 润学指南
+    - title: ChatGPT
+      logo: chatgpt.webp
+      url: https://chat.openai.com/
+      description: ChatGPT is a free-to-use AI system.
     - title: Chrome应用商店
       logo: chrome.webp
       url: https://chromewebstore.google.com/
