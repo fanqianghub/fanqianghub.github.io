@@ -1,6 +1,6 @@
-baseURL               = "https://csyphil.github.io"
+baseURL               = "https://fanqianghub.github.io"
 languageCode          = "zh-CN"
-title                 = "夕岚导航"
+title                 = "翻墙Hub - 导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
