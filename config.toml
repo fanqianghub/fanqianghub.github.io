@@ -45,4 +45,4 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = 'Powered by [Fanqianghub](https://fanqianghub.com) | Copyright © 2023 [Fanqianghub](https://fanqianghub.com) All rights reserved.'
+    copyright = 'Powered by [Fanqianghub](https://fanqianghub.com) | Copyright © 2024 [Fanqianghub](https://fanqianghub.com) All rights reserved.'
