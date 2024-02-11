@@ -1,5 +1,24 @@
 ---
-
+- taxonomy: 翻墙Hub
+  icon: far fa-house
+  links: 
+    - title: 导航站
+      logo: fanqianghub.webp
+      url: https://fanqianghub.com
+      description: 翻墙Hub 导航站
+    - title: 论坛
+      logo: fanqianghub.webp
+      url: https://community.fanqianghub.com
+      description: 翻墙Hub 论坛社区
+    - title: 博客
+      logo: fanqianghub.webp
+      url: https://community.fanqianghub.com/blog
+      description: 翻墙Hub 博客文章
+    - title: 二级域名DNS
+      logo: dns.fanqianghub.webp
+      url: https://dns.fanqianghub.com
+      description: 翻墙Hub 二级域名DNS服务
+  
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
