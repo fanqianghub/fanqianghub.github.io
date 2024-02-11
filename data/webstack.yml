@@ -18,6 +18,10 @@
       logo: dns.fanqianghub.webp
       url: https://dns.fanqianghub.com
       description: 翻墙Hub 二级域名DNS服务
+    - title: VPS收录网站
+      logo: vps.fanqianghub.webp
+      url: https://vps.fanqianghub.com
+      description: 翻墙Hub VPS收录列表查找
   
 - taxonomy: 常用推荐
   icon: far fa-star
